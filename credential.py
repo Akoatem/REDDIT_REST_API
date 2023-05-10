@@ -1,0 +1,2 @@
+USERNAME = "Akoatem"
+PASSWORD = "Monica"
